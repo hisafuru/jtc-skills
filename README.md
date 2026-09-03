@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/mascot.png" alt="JTCの優秀な部下" width="280">
+</p>
+
 | 項目 | 内容 |
 |---|---|
 | 名称 | JTCの優秀な部下スキル |
